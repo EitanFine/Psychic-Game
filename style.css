@@ -1,0 +1,51 @@
+<style>
+
+ body .container {
+    background-color: #C70039;
+}
+
+.jumbotron {background-color: #B2D732;
+text-align:center;
+font-family: 'Lobster', sans-serif;
+}
+
+
+
+
+.jumbotron h1 {color: #110934;
+}
+.jumbotron p {color: #FC600A;
+font-family: 'Lobster', sans-serif;
+	text-align:center;
+	font-size: 2em;
+
+
+}
+
+
+.bs-example {
+  width:50%;
+  height:50%;
+  margin: auto;
+}
+
+h2 {color: yellow;
+font-family: 'Gloria Hallelujah', cursive;
+text-align:center;
+	font-size: 2.5em;
+
+
+
+}
+
+#jumbo2{background-color: #4424D6;}
+
+
+
+
+
+
+
+</style>
+
+
